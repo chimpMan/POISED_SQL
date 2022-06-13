@@ -33,12 +33,14 @@ This menu shows the previously mentioned capabilities as options.
 
 ### how is the project created?
 4. 1 
+
     A method that sets the details of a projects is called by asking for user inputs and these details
         are saved one at a time into a project object.
     This project is then added into the list and consequently into the database for future retrieval.
 
 ### how is the project edited?
 4. 2
+
     At the moment, only the total amount paid and deadline dates are editable.
     This is done by calling a method to edit the project and asks for the project number of the desired project.
     With the project number, the program parses through the list and finds the desired project.
@@ -48,6 +50,7 @@ This menu shows the previously mentioned capabilities as options.
 
 ### how is the project viewed?
  4. 3 . 1
+
     The user has multiple options
     * **view specific projects**
     This is done by calling a method to view specific projects and asks for the project number or name of the desired project.
@@ -55,24 +58,28 @@ This menu shows the previously mentioned capabilities as options.
     The project is presented to screen.
 
 4. 3 . 2
+
     * **view unfinished projects**
     This is done by calling a method to view unfinished projects.
     The program parses through the list and finds the desired projects that have a completion Status of less than 100%. 
     The project(s) is presented to screen.
 
 4. 3 . 3
+
     * **view finished projects**
     This is done by calling a method to view finished projects.
     The program parses through the list and finds the desired projects that have a completion Status of equal to 100%. 
     The project(s) is presented to screen.
 
 4. 3 . 4
+
     * **view overdue projects**
     This is done by calling a method to view overdue projects.
     The program parses through the list and finds the desired projects that have a deadline date older than the current date%. 
     The project(s) is presented to screen.
 
-4. 3 . 4
+4. 3 . 5
+
     * **view all projects**
     This is done by calling a method to view all projects.. 
     The entire list is printed to screen.
@@ -80,6 +87,7 @@ This menu shows the previously mentioned capabilities as options.
 
 ### how is the contractor edited?
 4. 4
+
     This is done by calling a method to edit a specific contractor and asks for the project number or name of the desired project.
     With the project number, the program parses through the list and finds the desired project and retrieves the contractor of that project. 
     The user then chooses between telephone number or email.
@@ -87,6 +95,7 @@ This menu shows the previously mentioned capabilities as options.
 
 ### how is the project finalized?
 4. 5
+
     This is done by calling a method to finalize a project and asks for the project number or name of the desired project.
     With the project number, the program parses through the list and finds the desired project and retrieves the contractor of that project. 
     If the project has been fully paid for, the completion date is input by the user and a new table is created for completed projects
