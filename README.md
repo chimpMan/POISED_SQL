@@ -49,7 +49,7 @@ This menu shows the previously mentioned capabilities as options.
     The database is then updated.
 
 ### how is the project viewed?
- 4. 3 . 1
+4. 3 . 1
 
     The user has multiple options
     * **view specific projects**
