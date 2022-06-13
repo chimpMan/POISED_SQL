@@ -55,9 +55,10 @@ This menu shows the previously mentioned capabilities as options.
 
 ### How is the project viewed?
 
+The user has multiple options
 
-    The user has multiple options
 * **view specific projects**
+
     This is done by calling a method to view specific projects and asks for the project number 
     or name of the desired project.
 
@@ -67,6 +68,7 @@ This menu shows the previously mentioned capabilities as options.
 
 
 * **view unfinished projects**
+
     This is done by calling a method to view unfinished projects.
 
     The program parses through the list and finds the desired projects that have a 
@@ -76,6 +78,7 @@ This menu shows the previously mentioned capabilities as options.
 
 
 * **view finished projects**
+
     This is done by calling a method to view finished projects.
 
     The program parses through the list and finds the desired projects that 
@@ -85,6 +88,7 @@ This menu shows the previously mentioned capabilities as options.
 
 
 * **view overdue projects**
+
     This is done by calling a method to view overdue projects.
 
     The program parses through the list and finds the desired projects that have 
@@ -94,6 +98,7 @@ This menu shows the previously mentioned capabilities as options.
 
 
 * **view all projects**
+
     This is done by calling a method to view all projects.
 
     The entire list is printed to screen.
