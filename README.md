@@ -2,6 +2,21 @@
 My Ninth Capstone Project
  A project management program that uses MySql for inputs and outputs
 
+# Table of contents
+[Introduction](#general-info)
+[What the project does](#what-this-project-does) 
+* [How does it work](#how-does-it-work)
+* [Detailed Summary](#detailed-summary) 
+* [What is JDBC](#but-what-is-a-jdbc-connection)
+* [How is a project created](#how-is-the-project-created) 
+* [How is a project edited](#how-is-the-project-edited) 
+* [How is a project viewed](#how-is-the-project-viewed) 
+* [How is a contractor edited](#how-is-the-contractor-edited) 
+* [How is a project finalized](#how-is-the-project-finalized) 
+
+* [Technologies](#technologies)
+* [Setup](#setup)
+
 ## WHAT THIS PROJECT DOES
 * Manages projects, duh!
 * *In addition to that,a user can*
@@ -130,4 +145,12 @@ The user has multiple options
     If the project is not fully paid for, the customer is charged with an invoice that shows their name,
     project name and all their contact info together with the balance.
 
+# TECHNOLOGIES
+1. Java
+2. JavaDoc
+3. JDBC connector
+4. Eclipse
+5. VSCode
 
+# SETUP
+    Open up a workspace in Eclipse or in VSCode and import all the src files and press run.
