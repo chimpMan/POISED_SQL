@@ -3,8 +3,8 @@ My Ninth Capstone Project
  A project management program that uses MySql for inputs and outputs
 
 # Table of contents
-[Introduction](#general-info)
-[What the project does](#what-this-project-does) 
+* [Introduction](#poised-sql-capstone-project)
+* [What the project does](#what-this-project-does) 
 * [How does it work](#how-does-it-work)
 * [Detailed Summary](#detailed-summary) 
 * [What is JDBC](#but-what-is-a-jdbc-connection)
